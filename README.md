@@ -22,4 +22,3 @@ The drawing board provides users abilities to customise their drawings; we could
 # Credit
   - Author: 
     + Lê Đức Thịnh (ducthinh2111) ID: 17110076
-    + Nguyễn Hoàng Danh (prettydanh) ID: 17110009
